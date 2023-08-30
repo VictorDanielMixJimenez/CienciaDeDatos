@@ -13,4 +13,8 @@ Exoplanetas: Código python donde se aplican modelos supervisado: Redes neuronal
 Analisis de cohortes: Codigo en python para medir la retención de clientes
       a.- Manejo de dataframe, agrupaciones(groupby) suma y  conteos.
       c.- Matriz transpuesta y calculo mediante funciones lambda.
+
+Riesgo de Fuga: Codigo en Python de modelos de ML que predicen el riesgo de fuga de un cliente.
+      a.- Modelos supervisados de ml.
+      b.- ETL y EDA, seleccion de variables y optimizacion de hiperparametros.
       
